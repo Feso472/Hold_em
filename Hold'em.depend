@@ -1,0 +1,111 @@
+# depslib dependency file v1.0
+1621089931 source:d:\documents\project\cb\hold'em\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	"main.h"
+
+1620896617 d:\documents\project\cb\hold'em\main.h
+
+1620883409 source:d:\documents\project\cb\hold'em\game.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	"main.h"
+
+1620229625 source:d:\documents\project\cb\hold'em\windows.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	"main.h"
+
+1620638869 source:d:\documents\project\cb\hold'em\tool.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	"main.h"
+
+1621089912 source:d:\documents\project\cb\hold'em\page.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	"main.h"
+
+1622082758 source:d:\documents\project\cb\hold_em\game.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	"main.h"
+
+1622042133 d:\documents\project\cb\hold_em\main.h
+
+1622081197 source:d:\documents\project\cb\hold_em\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	"main.h"
+
+1621958792 source:d:\documents\project\cb\hold_em\tool.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	"main.h"
+
+1622082330 source:d:\documents\project\cb\hold_em\page.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	"main.h"
+
+1622131081 source:d:\documents\project\c\hold_em\page.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	"main.h"
+
+1622130014 d:\documents\project\c\hold_em\main.h
+
+1622132922 source:d:\documents\project\c\hold_em\tool.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	"main.h"
+
+1622130014 source:d:\documents\project\c\hold_em\game.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	"main.h"
+
+1622117586 source:d:\documents\project\c\hold_em\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	"main.h"
+
